@@ -1,0 +1,50 @@
+{
+    "levelMap":{
+
+        "start":[2,0,1],
+
+        "size":[4,6],
+
+        "roomObjects":[
+            {"type":0, "location":{"st": [-1,-1], "ed": [-1,-1], "or": 0}},
+            {"type":0, "location":{"st": [0,-1], "ed": [0,-1], "or": 0}},
+            {"type":0, "location":{"st": [1,-1], "ed": [1,-1], "or": 0}},
+            {"type":0, "location":{"st": [2,-1], "ed": [2,-1], "or": 0}},
+            {"type":0, "location":{"st": [3,-1], "ed": [3,-1], "or": 0}},
+            {"type":0, "location":{"st": [4,-1], "ed": [4,-1], "or": 0}},
+
+            {"type":0, "location":{"st": [-1,6], "ed": [-1,6], "or": 0}},
+            {"type":0, "location":{"st": [0,6], "ed": [0,6], "or": 0}},
+            {"type":0, "location":{"st": [1,6], "ed": [1,6], "or": 0}},
+            {"type":0, "location":{"st": [2,6], "ed": [2,6], "or": 0}},
+            {"type":0, "location":{"st": [3,6], "ed": [3,6], "or": 0}},
+            {"type":0, "location":{"st": [4,6], "ed": [4,6], "or": 0}},
+
+            {"type":0, "location":{"st": [-1,0], "ed": [-1,0], "or": 0}},
+            {"type":0, "location":{"st": [-1,1], "ed": [-1,1], "or": 0}},
+            {"type":0, "location":{"st": [-1,2], "ed": [-1,2], "or": 0}},
+            {"type":0, "location":{"st": [-1,3], "ed": [-1,3], "or": 0}},
+            {"type":0, "location":{"st": [-1,4], "ed": [-1,4], "or": 0}},
+            {"type":0, "location":{"st": [-1,5], "ed": [-1,5], "or": 0}},
+
+            {"type":0, "location":{"st": [4,0], "ed": [4,0], "or": 0}},
+            {"type":0, "location":{"st": [4,1], "ed": [4,1], "or": 0}},
+            {"type":0, "location":{"st": [4,2], "ed": [4,2], "or": 0}},
+            {"type":0, "location":{"st": [4,3], "ed": [4,3], "or": 0}},
+            {"type":0, "location":{"st": [4,4], "ed": [4,4], "or": 0}},
+            {"type":0, "location":{"st": [4,5], "ed": [4,5], "or": 0}},
+
+            {"type":1, "location":{"st": [2,-1], "ed": [2,-1], "or": 0}},
+            {"type":1, "location":{"st": [-1,4], "ed": [-1,4], "or": 0}},
+
+            {"type":2, "location":{"st": [1,2], "ed": [2,3], "or": 0}},
+
+            {"type":3, "location":{"st": [3,0], "ed": [3,1], "or": 0}},
+            {"type":3, "location":{"st": [0,2], "ed": [0,3], "or": 0}},
+
+            {"type":4, "location":{"st": [2,5], "ed": [3,5], "or": 0}},
+            {"type":5, "location":{"st": [1,0], "ed": [1,0], "or": 0}}
+
+        ]
+    }
+}
